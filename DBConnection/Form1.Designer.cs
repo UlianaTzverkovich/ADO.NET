@@ -44,6 +44,8 @@ namespace DBConnection
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.button4 = new System.Windows.Forms.Button();
+            this.sqlCommand1 = new System.Data.SqlClient.SqlCommand();
+            this.sqlConnection1 = new System.Data.SqlClient.SqlConnection();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,7 +60,7 @@ namespace DBConnection
             this.списокПодключенийToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(898, 33);
+            this.menuStrip1.Size = new System.Drawing.Size(899, 33);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -111,7 +113,7 @@ namespace DBConnection
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(40, 151);
+            this.button2.Location = new System.Drawing.Point(40, 142);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(216, 37);
             this.button2.TabIndex = 3;
@@ -130,7 +132,7 @@ namespace DBConnection
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(514, 89);
+            this.button3.Location = new System.Drawing.Point(532, 72);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(216, 37);
             this.button3.TabIndex = 5;
@@ -145,9 +147,9 @@ namespace DBConnection
             this.columnHeader2,
             this.columnHeader3});
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(394, 132);
+            this.listView1.Location = new System.Drawing.Point(397, 132);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(476, 417);
+            this.listView1.Size = new System.Drawing.Size(457, 417);
             this.listView1.TabIndex = 6;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -176,11 +178,22 @@ namespace DBConnection
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // sqlCommand1
+            // 
+            this.sqlCommand1.CommandText = "SELECT CustomerID, CompanyName\r\nFROM   Customers";
+            this.sqlCommand1.Connection = this.sqlConnection1;
+            // 
+            // sqlConnection1
+            // 
+            this.sqlConnection1.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=Northwind;Integrated Security=" +
+    "True";
+            this.sqlConnection1.FireInfoMessageEventOnUserErrors = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(898, 580);
+            this.ClientSize = new System.Drawing.Size(899, 580);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.button3);
@@ -217,6 +230,8 @@ namespace DBConnection
         private System.Windows.Forms.ColumnHeader columnHeader2;
         private System.Windows.Forms.ColumnHeader columnHeader3;
         private System.Windows.Forms.Button button4;
+        private System.Data.SqlClient.SqlCommand sqlCommand1;
+        private System.Data.SqlClient.SqlConnection sqlConnection1;
     }
 }
 

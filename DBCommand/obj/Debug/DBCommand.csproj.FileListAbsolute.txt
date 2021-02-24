@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Ulyan\source\repos\DBConnection\DBCommand\obj\Debug\DBCommand.pdb
