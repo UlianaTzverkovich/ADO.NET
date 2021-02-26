@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnection", "DBConnectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCommand", "DBCommand\DBCommand.csproj", "{BC133FBE-7279-4F7C-8C72-FF22DC8B7A4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetDesigner", "DatasetDesigner\DatasetDesigner.csproj", "{8EFE7F7F-B283-4696-9C50-5D80B95F2362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingDataTable", "CreatingDataTable\CreatingDataTable.csproj", "{8B232734-2D9B-4684-95C0-6E203CBB69A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BC133FBE-7279-4F7C-8C72-FF22DC8B7A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC133FBE-7279-4F7C-8C72-FF22DC8B7A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC133FBE-7279-4F7C-8C72-FF22DC8B7A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFE7F7F-B283-4696-9C50-5D80B95F2362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFE7F7F-B283-4696-9C50-5D80B95F2362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFE7F7F-B283-4696-9C50-5D80B95F2362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFE7F7F-B283-4696-9C50-5D80B95F2362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B232734-2D9B-4684-95C0-6E203CBB69A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B232734-2D9B-4684-95C0-6E203CBB69A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B232734-2D9B-4684-95C0-6E203CBB69A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B232734-2D9B-4684-95C0-6E203CBB69A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
