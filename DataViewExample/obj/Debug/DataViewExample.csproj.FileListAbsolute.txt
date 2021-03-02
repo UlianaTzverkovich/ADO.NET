@@ -1,0 +1,9 @@
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\bin\Debug\ITMO.ADO.NET.Lab04.06_DataViewExample.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\bin\Debug\ITMO.ADO.NET.Lab04.06_DataViewExample.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\bin\Debug\ITMO.ADO.NET.Lab04.06_DataViewExample.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\ITMO.ADO.NET.Lab04._06_DataViewExample.DataViewExample.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\ITMO.ADO.NET.Lab04._06_DataViewExample.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\ITMO.ADO.NET.Lab04.06_DataViewExample.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataViewExample\obj\Debug\ITMO.ADO.NET.Lab04.06_DataViewExample.pdb

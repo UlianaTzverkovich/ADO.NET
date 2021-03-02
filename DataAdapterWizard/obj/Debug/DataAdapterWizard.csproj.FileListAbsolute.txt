@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04._04_DataAdapterWizard.DataAdapterWizard.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04._04_DataAdapterWizard.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.pdb

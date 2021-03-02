@@ -1,0 +1,12 @@
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\bin\Debug\ITMO.ADO.NET.Lab05.02_DataBindingSimple.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\bin\Debug\ITMO.ADO.NET.Lab05.02_DataBindingSimple.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\bin\Debug\ITMO.ADO.NET.Lab05.02_DataBindingSimple.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\ITMO.ADO.NET.Lab05._02_DataBindingSimple.DataBindingSimple.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\ITMO.ADO.NET.Lab05._02_DataBindingSimple.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\ITMO.ADO.NET.Lab05.02_DataBindingSimple.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\ITMO.ADO.NET.Lab05.02_DataBindingSimple.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\DataBindingSimple.DataBindingSimple.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources

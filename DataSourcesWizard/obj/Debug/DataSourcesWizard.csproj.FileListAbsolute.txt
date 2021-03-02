@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\bin\Debug\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\bin\Debug\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\bin\Debug\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\ITMO.ADO.NET.Lab05._01_DataSourcesWizard.DataSourcesWizard.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\ITMO.ADO.NET.Lab05._01_DataSourcesWizard.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataSourcesWizard\obj\Debug\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.pdb

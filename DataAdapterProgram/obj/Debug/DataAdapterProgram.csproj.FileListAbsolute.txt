@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\Ulyan\source\repos\DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

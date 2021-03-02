@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\bin\Debug\ITMO.ADO.NET.Lab04.05_WorkingDataTable.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\bin\Debug\ITMO.ADO.NET.Lab04.05_WorkingDataTable.exe
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\bin\Debug\ITMO.ADO.NET.Lab04.05_WorkingDataTable.pdb
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\ITMO.ADO.NET.Lab04._05_WorkingDataTable.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\ITMO.ADO.NET.Lab04._05_WorkingDataTable.WorkingDataTable.resources
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\ITMO.ADO.NET.Lab04.05_WorkingDataTable.exe
+C:\Users\Ulyan\source\repos\DBConnection\WorkingDataTable\obj\Debug\ITMO.ADO.NET.Lab04.05_WorkingDataTable.pdb

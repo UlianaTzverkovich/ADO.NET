@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Ulyan\source\repos\DBConnection\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
