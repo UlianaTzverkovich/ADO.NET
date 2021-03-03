@@ -1,0 +1,35 @@
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\Zachet_3.exe.config
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\Zachet_3.exe
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\EntityFramework.dll
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\EntityFramework.xml
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.csprojAssemblyReference.cache
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.Question.resources
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\Zachet_3.Properties.Resources.resources
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.StudentForm.resources
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.TeacherForm.resources
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.csproj.GenerateResource.cache
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\ZACHET3.csproj.CopyComplete
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\Zachet_3.exe
+C:\Users\Ulyan\OneDrive\Desktop\ADO.NET\ADO.NET_Zachet\Zachet_3\Zachet_3\obj\Debug\Zachet_3.pdb
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\Zachet_3.exe.config
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\Zachet_3.exe
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\Zachet_3.pdb
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\EntityFramework.dll
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\EntityFramework.xml
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.Question.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\Zachet_3.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.StudentForm.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.TeacherForm.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\ZACHET3.csproj.CopyComplete
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\Zachet_3.exe
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET3\ZACHET3\obj\Debug\Zachet_3.pdb

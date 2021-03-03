@@ -1,0 +1,10 @@
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\bin\Debug\Zachet_2.exe.config
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\bin\Debug\Zachet_2.exe
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\bin\Debug\Zachet_2.pdb
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\ZACHET2.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\ZACHET2.Form1.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\Zachet_2.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\ZACHET2.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\ZACHET2.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\Zachet_2.exe
+C:\Users\Ulyan\source\repos\ADO.NET zachet\ZACHET2\ZACHET2\obj\Debug\Zachet_2.pdb

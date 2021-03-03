@@ -1,0 +1,15 @@
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\Code1.dll.config
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\Code1.dll
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\Code1.pdb
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\EntityFramework.dll
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\EntityFramework.xml
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.csproj.CopyComplete
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.dll
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.pdb
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.Migrations.InitialCreate.resources
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ZACHET4\Code1\obj\Debug\Code1.Migrations.AddCompanyMigration.resources
